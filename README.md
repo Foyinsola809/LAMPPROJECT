@@ -29,8 +29,6 @@ Step 2 -  Installing Mysql
 
 ![Alt text](img/11.sqlsecure2.png)
 
-![Alt text](img/11.sqlsecure2.png)
-
 
 Step 3 - Installing PHP
 
